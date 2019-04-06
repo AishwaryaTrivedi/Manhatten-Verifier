@@ -1,0 +1,3 @@
+keyhold time, keyhold interval, 
+Function define: calculate mean interval template
+0-0.5 threshold (for programing)

@@ -1,0 +1,3 @@
+The Code mainly contains two files ie. "manhattenverifier.java" and "manhattanverifiercalculations.java".
+Packages are called using mahattenverifier.java and Calculations are done in manhattenverifiercalculations.java.
+The output shows calculation of key hold to get false accept and false reject rates.The key intervals to get false accept and false reject rates.Also we are calculating the genuine and impostor score for user input.
